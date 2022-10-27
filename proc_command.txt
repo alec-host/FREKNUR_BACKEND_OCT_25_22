@@ -1,0 +1,1 @@
+mysql -u root -pg3t+hatBr3ad db_freknur_investment < sProcLogAssetPurchaseTrx.sql

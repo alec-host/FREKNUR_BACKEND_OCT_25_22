@@ -1,0 +1,14 @@
+{
+  "name": "node-api-router",
+  "version": "1.0.0",
+  "description": "This micro-service routes https requests received via nginx to python2.7 backend services running on supervisor.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alex",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
